@@ -7,7 +7,7 @@ const dadosPessoa = {
 
 function apresentar(dados) {
   console.log(
-    `Olá! Meu nome é ${dados.nome}, sou um jovemde ${dados.idade} anos, ${dados.altura}m e sou ${dados.profissao}.`
+    `Olá! Meu nome é ${dados.nome}, sou um jovem de ${dados.idade} anos, ${dados.altura}m e sou ${dados.profissao}.`
   );
 }
 
